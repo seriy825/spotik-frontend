@@ -1,0 +1,9 @@
+.icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  &:hover {
+    cursor: pointer;
+    filter: invert(0.2);
+  }
+}
